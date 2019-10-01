@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout.js"
-import BlogList from "../components/blog-list.js"
+import BlogList from "../components/list.js"
 import style from "../styles/intro.module.css"
 
 export default ({data}) => {

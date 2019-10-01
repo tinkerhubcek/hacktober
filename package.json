@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-workshop-meenachil",
+  "name": "hacktoberfest",
   "author": "Akshay <hi@akzhy.com> @_akzhy",
   "private": true,
   "description": "Site to be designed during the gatsby workshop @meenachilhacks",
@@ -7,6 +7,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
+    "clean": "gatsby clean",
     "develop": "gatsby develop",
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",

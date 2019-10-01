@@ -1,7 +1,9 @@
 .intro{
     padding: 84px 44px;
     text-align: center;
-    background: #7e57c2;
+    background: #ee0979; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #ee0979, #ff6a00); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #ee0979, #ff6a00); 
     color: #fff;
 }
 

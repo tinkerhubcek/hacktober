@@ -1,7 +1,9 @@
 ---
-title: The Great Gatsby
-date: 2019-08-02
+title: Meenhacks
+date: 2019-08-04
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+department: CS
+sem: 5
 image: ./image.jpg
 ---
 

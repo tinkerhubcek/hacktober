@@ -6,7 +6,7 @@ export default () => {
     return(
         <ul>
             <li><Link to="/"  activeStyle={{ borderBottom: "2px solid #fff" }}>Home</Link></li>
-            <li><Link to="/blog"  activeStyle={{ borderBottom: "2px solid #fff" }}>Blog</Link></li>
+            <li><Link to="/about"  activeStyle={{ borderBottom: "2px solid #fff" }}>About</Link></li>
         </ul>
     )
 }

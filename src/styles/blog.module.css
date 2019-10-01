@@ -1,0 +1,17 @@
+.intro{
+    padding: 84px 44px;
+    text-align: center;
+    background: #7e57c2;
+    color: #fff;
+}
+
+.post{
+    padding: 32px;
+    width: 980px;
+    max-width: 95%;
+    margin: 0 auto;
+}
+
+.post p{
+    margin: 32px 0;
+}

@@ -1,0 +1,19 @@
+.intro {
+    padding: 128px 44px;
+    text-align: center;
+    background: #7e57c2;
+}
+
+.intro h1 {
+    color: #fff;
+    margin: 24px 0;
+}
+
+.intro p {
+    color: #eee;
+    font-size: 20px;
+}
+
+.intro img{
+    width: 64px;
+}

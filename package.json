@@ -1,0 +1,40 @@
+{
+  "name": "gatsby-workshop-meenachil",
+  "author": "Akshay <hi@akzhy.com> @_akzhy",
+  "private": true,
+  "description": "Site to be designed during the gatsby workshop @meenachilhacks",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+  },
+  "dependencies": {
+    "gatsby": "^2.13.45",
+    "gatsby-image": "^2.2.8",
+    "gatsby-plugin-react-helmet": "^3.1.2",
+    "gatsby-plugin-sharp": "^2.2.9",
+    "gatsby-remark-copy-linked-files": "^2.1.4",
+    "gatsby-remark-images": "^3.1.7",
+    "gatsby-source-filesystem": "^2.1.8",
+    "gatsby-transformer-remark": "^2.6.10",
+    "gatsby-transformer-sharp": "^2.2.5",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meenhacks/gatsby-workshop"
+  },
+  "bugs": {
+    "url": "https://github.com/meenhacks/gatsby-workshop/issues"
+  }
+}

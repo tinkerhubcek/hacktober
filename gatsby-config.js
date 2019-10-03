@@ -1,7 +1,7 @@
 module.exports = {
     siteMetadata:{
         title: "Hacktober Fest",
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        description: "Celebrate Hacktoberfest, CEK Style",
         logo: "/images/logo.png"
     },
     plugins:[

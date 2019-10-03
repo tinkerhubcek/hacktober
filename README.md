@@ -1,6 +1,5 @@
-# Meenachil hacks Gatsby blog
+# Hacktober fest
 
-**[Demo](https://gatsby-workshop-mh.netlify.com/)**
 
 ## Installation
 

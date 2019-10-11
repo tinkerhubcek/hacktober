@@ -38,7 +38,7 @@ class Item extends React.Component{
         return(
             <div className={style.item}>
                 <div className={style.box}>
-                    <img src={"https://avatars1.githubusercontent.com/"${this.props.github}"?size=200"} className={style.image}/>
+                    <img src={"https://avatars1.githubusercontent.com/"+this.props.github+"?size=200"} className={style.image}/>
                     <p className={style.name}>{this.props.name}</p>
                     <a className={style.link} target="_blank" href={`https://github.com/${this.props.github}`}>{this.props.name}</a>
                 </div>
